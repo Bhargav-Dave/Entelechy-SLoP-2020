@@ -12,7 +12,8 @@ The current entelechy website (based primarily on PHP and WordPress) uses a lot 
 
 # Technology Stack
 
-##### Note that this is open to deliberation and discussion and a lot of technologies listed here are not final. If you deem that there are other technologies that can help us achieve our goals better, you can discuss with the mentors. More importantly, if there are technologies that you wish to learn and you think can be useful here, you are more than welcome to suggest them. Secondly, this is merely a proposed technology and is subject to change.
+##### Note that this is open to deliberation and discussion and a lot of technologies listed here are not final. If you deem that there are other technologies that can help us achieve our goals better, you can discuss with the mentors. More importantly, if there are technologies that you wish to learn and you think can be useful here, you are welcome to suggest them. The following is a proposed technology stack that we highly suggest using, it is subject to change but with constriants
+##### Also note that, the sole authority on whether or not to accept these suggestions lies with the mentors and it is advised try and explore the technologies listed out here.  You can suggest technologies if you are very sure that the technology you are proposing can be of extreme value here/can have some functionality that the following technologies don't provide. The mentors would be happy to hear you out in that case.
 
 * Flask
 * Vanilla JS
