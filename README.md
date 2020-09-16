@@ -18,6 +18,6 @@ The current entelechy website (based primarily on PHP and WordPress) uses a lot 
 * Vanilla JS
 * Selenium
 * Beautiful Soup
-* React
+* React JS
 * HTML
 
