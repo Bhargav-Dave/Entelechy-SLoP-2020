@@ -4,7 +4,7 @@ Repository for all things related to revamping the Entelechy (The College Magazi
 
 # What is Entelechy?
 
-Entelechy is the college magazine of Dhirubhai Ambani Institute of Information and Communication Technology. The word Entelechy traces its origin to Greek, meaning the realization of potential as opposed to the mere existence of the same. It was started in 2005 with the aim of sharing views and ideas through the means of articles and comments and has grown ever since in numbers and accesibility. Just like any college magazine, it aims to provide voice to pressing issues not only on campus but also around the world and make people engage in meaningful discussions. All of this makes the accesibility of [the magazine website](http://entelechy.daiict.ac.in/) one of paramount importance.
+Entelechy is the college magazine of Dhirubhai Ambani Institute of Information and Communication Technology. The word Entelechy traces its origin to Greek, meaning the realization of potential as opposed to the mere existence of the same. It was started in 2005 with the aim of sharing views and ideas through the means of articles and comments and has grown ever since in numbers and accesibility. Just like any college magazine, it aims to provide voice to pressing issues not only on campus but also around the world and make people engage in meaningful discussions. All of this makes the accessibility of [the magazine website](http://entelechy.daiict.ac.in/) one of paramount importance.
 
 # What we plan to do?
 
