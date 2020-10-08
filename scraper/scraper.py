@@ -20,9 +20,21 @@ def Login(username,password):
     driver.find_element_by_id("wp-submit").click()
     return driver
 
+# Extract all the articles from Each edition
+def getEdition(driver,Edition):
+    driver.get(Edition)
+    Element = driver.find_elements_by_css_selector("article > h2 > a")
+    articleLink = [Element.get_attribute('herf') for Element in Element]
+    pages = driver.find_elements_by_css_selector(".page")
+    
+
+
+
 
 username = "" # Username
 password = "" # Password
 driver = Login(username,password)
+
+
 
 driver.quit()
